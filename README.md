@@ -1,5 +1,7 @@
 # Snowflake game
 This is a simple Python program where you have to click as many snowflakes as you can before they reach the bottom of the screen.
+<img width="375" alt="Zrzut ekranu 2024-03-03 204832" src="https://github.com/Julia11235/Python/assets/120017937/b88f5af7-6584-45dd-bc44-50898fc6177d">
+
 
 ### Prerequisites
 1. Python 3.x installed on your system
